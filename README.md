@@ -1,5 +1,4 @@
-Hi, I'm Radhika Garg 👋
-
+# Hi, I'm Radhika Garg 👋
 
 ### 🚀 Pre-Final Year Computer Science Engineering Student | DSA Enthusiast | Full-Stack Developer | ML Explorer
 
@@ -8,13 +7,16 @@ Welcome to my GitHub profile! I am a passionate Computer Science Engineering stu
 💻 I am currently working on Full-Stack Development and Machine Learning projects.
 📚 I have a strong interest in programming, Data Structures & Algorithms, and software development.
 🚀 My goal is to build impactful and efficient software solutions.
+
 ---
 
-🚀 Featured Work
+## 🚀 Featured Work
 
-💼 Job Sphere – MERN stack job portal for recruiters & job seekers
-🛡️ PhishBoost – ML-based phishing detection system
-⚙️ Mini Compiler – Lexical analysis & parsing based compiler project
+💼 **Job Sphere** – MERN stack job portal for recruiters & job seekers
+🛡️ **PhishBoost** – ML-based phishing detection system
+⚙️ **Mini Compiler** – Lexical analysis & parsing-based compiler project
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -23,12 +25,10 @@ Welcome to my GitHub profile! I am a passionate Computer Science Engineering stu
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-
-
 
 ---
 
