@@ -22,9 +22,7 @@ A MERN-stack job portal platform connecting job seekers and recruiters through j
 
 A Machine Learning-based phishing detection system using XGBoost, Random Forest, and Decision Tree algorithms to identify malicious websites and emails.
 
-### 🌐 Full-Stack Web Applications
 
-Built responsive and scalable web applications using React.js, Node.js, Express.js, and MongoDB.
 
 ---
 
@@ -51,23 +49,19 @@ Built responsive and scalable web applications using React.js, Node.js, Express.
 ## 📊 Current Focus
 
 * 📚 Solving DSA problems regularly
-* 🌐 Building Full-Stack MERN applications
+* 🌐 Building Full-Stack  applications
 * 🤖 Exploring Artificial Intelligence & Machine Learning
 * 🚀 Preparing for Software Engineering internships and placements
 
 ---
 
-## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Radhikagarg933\&show_icons=true\&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Radhikagarg933\&layout=compact\&theme=default)
 
 ---
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: Add your LinkedIn profile link here
+* 💼 LinkedIn: https://www.linkedin.com/in/radhika-garg-053320309/
 * 🐙 GitHub: https://github.com/Radhikagarg933
 
 ---
