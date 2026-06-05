@@ -1,20 +1,22 @@
 # Hi, I'm Radhika Garg 👋
 
-### 🚀 Pre-Final Year Computer Science Engineering Student | DSA Enthusiast | Full-Stack Developer | ML Explorer
+🚀 Pre-Final Year Computer Science Engineering Student | DSA Enthusiast | Full-Stack Developer | ML Explorer  
 
 Welcome to my GitHub profile! I am a passionate Computer Science Engineering student who enjoys solving problems and continuously learning new technologies.
 
-💻 I am currently working on Full-Stack Development and Machine Learning projects.
-📚 I have a strong interest in programming, Data Structures & Algorithms, and software development.
+---
+
+💻 I am currently working on Full-Stack Development and Machine Learning projects.  
+📚 I have a strong interest in programming, Data Structures & Algorithms, and software development.  
 🚀 My goal is to build impactful and efficient software solutions.
 
 ---
 
 ## 🚀 Featured Work
 
-💼 **Job Sphere** – MERN stack job portal for recruiters & job seekers
-🛡️ **PhishBoost** – ML-based phishing detection system
-⚙️ **Mini Compiler** – Lexical analysis & parsing-based compiler project
+💼 Job Sphere – MERN stack job portal for recruiters & job seekers  
+🛡️ PhishBoost – ML-based phishing detection system  
+⚙️ Mini Compiler – Lexical analysis & parsing-based compiler project  
 
 ---
 
