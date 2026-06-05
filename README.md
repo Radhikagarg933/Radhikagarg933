@@ -1,65 +1,19 @@
-# Hello, I'm Radhika Garg 👋
+## 🛠️ Tech Stack
 
-Welcome to my GitHub profile! I am a pre-final year Computer Science Engineering student passionate about software development, problem-solving, and continuous learning. I enjoy building projects, exploring new technologies, and applying my knowledge to solve real-world challenges.
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-## About Me
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
-💻 Pre-finalyear Computer Science Engineering student
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
-📚 Skilled in C++, Data Structures & Algorithms, React.js, Node.js, Express.js, MongoDB, Git, and GitHub
-
-🤖 Interested in Machine Learning, Web Development, and Software Engineering
-
-🚀 Focused on improving problem-solving skills and building impactful projects
-
-🎯 Seeking opportunities to grow as a Software Engineer
-
-## What I Do
-
-I enjoy developing full-stack web applications, working on machine learning projects, and solving coding problems. I believe in writing clean, maintainable code and continuously expanding my technical knowledge through projects and hands-on learning.
-
-## Featured Projects
-
-### PhishBoost
-
-A machine learning-based phishing detection system that uses algorithms such as XGBoost, Random Forest, and Decision Trees to identify malicious websites and emails.
-
-### Store Intelligence Project
-
-A data-driven project focused on extracting business insights and improving decision-making through analytics and visualization.
-
-## Skills
-
-* C++
-* Python
-* Data Structures & Algorithms
-* React.js
-* Node.js & Express.js
-* MongoDB
-* Machine Learning
-* Git & GitHub
-
-## Connect With Me
-
-* LinkedIn: https://www.linkedin.com/in/radhika-garg-053320309/
-* GitHub: https://github.com/Radhikagarg933
-
-## Fun Fact
-
-🌱 I enjoy learning new technologies and challenging myself with coding problems and real-world projects.
-
-
-<!--
-**Radhikagarg933/Radhikagarg933** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
