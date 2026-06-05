@@ -1,3 +1,33 @@
+# Hi, I'm Radhika Garg 👋
+
+### 🚀 Pre-Final Year Computer Science Engineering Student | DSA Enthusiast | Full-Stack Developer | ML Explorer
+
+Passionate about software development, problem-solving, and continuous learning. I enjoy building real-world projects, exploring emerging technologies, and strengthening my Data Structures & Algorithms skills.
+
+* 🔭 Currently working on Full-Stack Development and Machine Learning projects
+* 🌱 Learning Advanced DSA, System Design, and AI/ML
+* 💡 Interested in Software Engineering, Web Development, and Machine Learning
+* 🤝 Open to collaborations, open-source contributions, and internship opportunities
+* 🎯 Goal: To build impactful software solutions and grow as a Software Engineer
+
+---
+
+## 🚀 Featured Projects
+
+### 💼 Job Sphere
+
+A MERN-stack job portal platform connecting job seekers and recruiters through job listings, application management, and a seamless user experience.
+
+### 🛡️ PhishBoost
+
+A Machine Learning-based phishing detection system using XGBoost, Random Forest, and Decision Tree algorithms to identify malicious websites and emails.
+
+### 🌐 Full-Stack Web Applications
+
+Built responsive and scalable web applications using React.js, Node.js, Express.js, and MongoDB.
+
+---
+
 ## 🛠️ Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
@@ -16,4 +46,30 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+---
+
+## 📊 Current Focus
+
+* 📚 Solving DSA problems regularly
+* 🌐 Building Full-Stack MERN applications
+* 🤖 Exploring Artificial Intelligence & Machine Learning
+* 🚀 Preparing for Software Engineering internships and placements
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Radhikagarg933\&show_icons=true\&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Radhikagarg933\&layout=compact\&theme=default)
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: Add your LinkedIn profile link here
+* 🐙 GitHub: https://github.com/Radhikagarg933
+
+---
+
+### ⚡ Code • Learn • Build • Repeat
