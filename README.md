@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am a passionate Computer Science Engineering stu
 
 💻 I am currently working on Full-Stack Development and Machine Learning projects.  
 📚 I have a strong interest in programming, Data Structures & Algorithms, and software development.  
-🚀 My goal is to build impactful and efficient software solutions.
+🚀 My goal is to build impactful solutions for real world problems.
 
 ---
 
