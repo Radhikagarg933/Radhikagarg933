@@ -15,7 +15,6 @@ Welcome to my GitHub profile! I am a passionate Computer Science Engineering stu
 💼 Job Sphere – MERN stack job portal for recruiters & job seekers  
 🛡️ PhishBoost – ML-based phishing detection system  
 🤖 ResumeAI – AI-powered resume builder with summary, skills, and cover letter generation<br>
-
 ⚙️ Mini Compiler – Lexical analysis & parsing-based compiler project
 ---
 
