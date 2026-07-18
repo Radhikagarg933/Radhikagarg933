@@ -1,6 +1,6 @@
 # Hi, I'm Radhika Garg 👋
 
-**🚀 Pre-Final Year Computer Science Engineering Student | DSA Enthusiast | Full-Stack Developer | ML Explorer** 
+**🚀 Final Year Computer Science Engineering Student | DSA Enthusiast | Full-Stack Developer | ML Explorer** 
 
 Welcome to my GitHub profile! I am a passionate Computer Science Engineering student who enjoys solving problems and continuously learning new technologies.
 
